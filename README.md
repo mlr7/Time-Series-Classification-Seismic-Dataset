@@ -11,6 +11,14 @@ https://www.caltech.edu/about/news/california-supervolcano-is-cooling-off-but-ma
 
 --
 
+Useful approaches here:
+
+https://github.com/mlr7/Time-Series-Classification-for-Exoplanet-Discovery
+
+--
+
+### ST-DBSCAN
+
 
 ST-DBSCAN (Spatial-Temporal Density-Based Spatial Clustering of Applications with Noise) is an extension of the popular DBSCAN clustering algorithm, which is designed specifically for clustering spatial-temporal data. Here's a brief overview of the ST-DBSCAN algorithm:
 
@@ -47,6 +55,8 @@ where both space and time aspects are crucial.
 
 
 --
+
+### CGC: Co- and Tri-Clustering of Geodata Cubes
 
 The CGC (Co- and Tri-Clustering of Geodata Cubes) algorithm is designed to cluster geospatial data cubes. Geospatial data cubes store multi-dimensional data where dimensions can include space (latitude, longitude), time, and other attributes like temperature or precipitation.
 
