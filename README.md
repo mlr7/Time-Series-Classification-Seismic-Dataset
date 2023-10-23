@@ -17,6 +17,8 @@ https://github.com/mlr7/Time-Series-Classification-for-Exoplanet-Discovery
 
 --
 
+(Idea: Cluster in Lat-Lon, and/or Lat-Lon-Time, to get seismic clusters, and seq-analysis from there . . . ) (and deep viz)
+
 ### ST-DBSCAN
 
 
