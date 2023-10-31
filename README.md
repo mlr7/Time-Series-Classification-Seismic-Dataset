@@ -124,6 +124,31 @@ In essence, the CGC algorithm provides a way to explore and analyze multi-dimens
 
 ## 10/29/2023
 
+##### DBSCAN
+
+DBSCAN - Density-Based Spatial Clustering of Applications with Noise. Finds core samples of high density and expands clusters from them. Good for data which contains clusters of similar density.
+
+https://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html
+
+epsfloat, default=0.5. The maximum distance between two samples for one to be considered as in the neighborhood of the other. This is not a maximum bound on the distances of points within a cluster. This is the most important DBSCAN parameter to choose appropriately for your data set and distance function.
+
+##### Papers:
+
+https://phys.org/news/2023-10-scientists-isolate-early-warning-tremor-pattern.html#:~:text=Scientists%20isolate%20early%2Dwarning%20tremor%20pattern%20in%20lab%2Dmade%20earthquakes,-by%20Constantino%20Panagopulos&text=Researchers%20at%20The%20University%20of,tremors%20that%20come%20before%20them.
+
+
+https://phys.org/news/2023-10-ai-driven-earthquake-trials.html
+
+
+https://phys.org/news/2021-04-magnitude-earthquake-large-events.html
+
+
+Ebel, John E., and Daniel W. Chambers. "Using the locations of M≥ 4 earthquakes to delineate the extents of the ruptures of past major earthquakes." Geophysical Supplements to the Monthly Notices of the Royal Astronomical Society 207.2 (2016): 862-875.
+
+
+
+
+
 
 
 
